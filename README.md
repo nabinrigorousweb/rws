@@ -1,7 +1,6 @@
 
 # Entrepreneurship — A WordPress Block Theme
 
-![Image](https://user-images.githubusercontent.com/1415737/217930880-5d019715-f0c2-4f2f-9d24-dd466abf531b.jpg)
 
 Entrepreneurship is a modern WordPress block theme by [WP Wheels](https://wpwheels.com). Entrepreneurship is built to work seamlessly with the WordPress block editor and site editor, where you can create beautiful, fully-customizable websites with WordPress's built-in page builder — no page builder or coding skills required.
 
